@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# graphql
+This is a sample Rails App to understand Graphql
+>>>>>>> dfff19b479e2559ccbb61244b08ca6a6d4627d38
